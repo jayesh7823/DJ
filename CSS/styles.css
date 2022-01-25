@@ -121,6 +121,10 @@ hr {
     text-decoration: none;
   }
 
+.sharp {
+    font-size: 40%;
+}
+
 .bottom-container {
     background-color: #66BFBF;
     padding: 50px 0 20px;
